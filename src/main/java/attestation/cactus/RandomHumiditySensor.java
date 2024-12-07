@@ -1,4 +1,4 @@
-package Attestation.Cactus;
+package attestation.cactus;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package Attestation;
+package attestation.fence;
 
 import java.util.Scanner;
 

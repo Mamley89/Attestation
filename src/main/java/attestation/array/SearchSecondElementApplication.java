@@ -1,4 +1,4 @@
-package Attestation.Array;
+package attestation.array;
 
 import java.util.Optional;
 import java.util.Scanner;
@@ -20,7 +20,7 @@ public class SearchSecondElementApplication {
                 elements = null;
                 System.out.println("Введен неверный формат элементов массива, попробуйте снова через запятую(например 1,5,7,3,2,0,4,9,6):");
             }
-        } while (elements == null );
+        } while (elements == null);
 
         var secondMaxElement = findSecondMax(elements);
 
